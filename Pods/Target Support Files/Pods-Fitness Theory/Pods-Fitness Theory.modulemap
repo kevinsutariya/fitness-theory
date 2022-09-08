@@ -1,0 +1,6 @@
+framework module Pods_Fitness_Theory {
+  umbrella header "Pods-Fitness Theory-umbrella.h"
+
+  export *
+  module * { export * }
+}

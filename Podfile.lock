@@ -1,0 +1,24 @@
+PODS:
+  - AdColony (4.9.0)
+  - MBProgressHUD (1.2.0)
+  - SwiftyStoreKit (0.16.1)
+
+DEPENDENCIES:
+  - AdColony
+  - MBProgressHUD (~> 1.2.0)
+  - SwiftyStoreKit
+
+SPEC REPOS:
+  trunk:
+    - AdColony
+    - MBProgressHUD
+    - SwiftyStoreKit
+
+SPEC CHECKSUMS:
+  AdColony: 4f3738dc633d7aaa8ec60729df973076cc8e97ed
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
+
+PODFILE CHECKSUM: 852d8887d32836f69da44ba912b54742a858205b
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,113 @@
+/* 
+  Localizable.strings
+  Fitness Theory
+
+  Created by Jay Borania on 23/07/22.
+  
+*/
+
+// MAIN MENU VC
+"MENU" = "MENU";
+
+"Main" = "Main";
+"Organization" = "Organization";
+"Details" = "Details";
+"Common mistakes" = "Common mistakes";
+"Tips" = "Tips";
+"Notes" = "Notes";
+"Shop" = "Shop";
+"Settings" = "Settings";
+"Calculating" = "Calculating";
+
+// MENU ITEM DETAIL VC
+// 1
+"main_content_1" = "THE ADVANTAGES OF HOME TRAINING:";
+"main_content_2" = "1. saving money. You don't spend money on a gym membership. For those who are not sure that they can attend a fitness club regularly, this is one of the most important arguments.\n\n2. time savings. You do not need to spend time on the road to the gym, especially this is an issue for residents of big cities. And if you attend a group class, there is no need to adjust to the set time of training.\n\n3. Psychological comfort. If there is shyness to train in front of strangers because of poor physical fitness, then home training will be a great solution for you. If you work out at home, you do not have to worry about the fact that pushing up from the floor, for example, is still an unsolvable task for you.\nConvenience. It's impossible not to mention the convenience of home training: you do not need to go anywhere, to care much about appearance and sportswear, to plan your day according to a trip to the gym. You can work out even early in the morning, even late in the evening - everything is at your discretion.\nAnother important factor also plays an important role: at home you are completely safe from viruses and infections, which can be in gyms.\nDuring a home workout you have the opportunity to control the pace of exercise on your own.\nFitness at home has another nice advantage over the gym. You have your own shower at home, sports equipment that is not soaked in other people's sweat and is customized to you.\n\"60-minute\" sessions at the gym actually take much longer. The drive to the gym and back, changing clothes, waiting for the machines you need to do the exercise, talking to a trainer or acquaintances - all this takes time you could have spent at home on additional effective exercises.\nYou should also remember that lockers in locker rooms are not the most secure places. There are situations in which you can lose your valuables, and the club's administration is usually not responsible for this. In home conditions this is not possible.\nWorking out at home is a great solution for most people who are constantly busy. It will help you stay energized and take up very little time.";
+
+// 2
+"organization_content_1" = "It's no secret that many people start their first steps toward training and sports at home. The comfortable atmosphere and complete freedom in actions and movements make home training special. However, after a month of such exercises, the \"athlete\" begins to lack the equipment to move to the next strength level. Therefore, most people soon begin to visit fitness clubs equipped with sports equipment.\n\nHow do you organize your space?\nIs it really that simple? Indeed, the effectiveness of home training depends not on a large number of fancy equipment or a large collection of dumbbells, but on the correct organization of their sports area. As it turned out, this requires a small space, which, if desired, everyone can comfortably arrange in his apartment.\n\nHowever, many people may wonder: how to fit all the sports equipment into the \"two by two meters\" area?\nNecessary equipment\n\nFitness mat";
+
+"organization_content_2" = "Just one fitness mat is enough for home workouts, as most exercises can be done with the weight of your own body. This will be effective for working on flexibility, speed and body coordination. A huge plus point of the mat is its versatility. The mat can be used for stretching as well as various cardio and strength training videos. And all in a small area of your room.\n\nSoft or regular dumbbells";
+
+"organization_content_3" = "If your own body weight is no longer enough and you want to add some options for strength training, you can use basic equipment: shock absorbers and dumbbells. Any specialized store sells even soft kettlebells that anyone can use at home without fear that they will scratch the new floor.\n\nEqualizers";
+
+"organization_content_4" = "Equalizers (highlets), otherwise known as low compact bars, are great for home exercise.\n\nDifferent types of push-ups, horizontal pull-ups, stretching, ab exercises and many other functional exercises become available with such a projectile.\n\nFolding Treadmill";
+
+"organization_content_5" = "A good investment would be a folding treadmill that is specifically manufactured for home use. After your workout, you can stow it under the bed and it won't even be visible in your household. Unfold it, run it and put it back away - comfortable and efficient!\n\nFluballs";
+
+"organization_content_6" = "Also great for home use are flubolas - balls with liquid inside from 3 to 11 pounds, which have a number of advantages over conventional medballs - weighted ball-shaped weights.\n\nOne of the nice qualities of flubolas is its unusual appearance, because inside it is the liquid, which is beautiful shimmering in the daytime and in the evening.\n\nWith a competent arrangement of personal space and the right selection of sports equipment, home workouts can become not only a useful pastime, but also effective work on creating a healthy and strong body.\n\nStart working out at home now!";
+
+// 3
+"details_content_1" = "Treat yourself to some post-exercise pampering: Here's what foods will make all the hard work at the gym seem pointless. There's one thing you should avoid: foods high in fat and sugars. We tell you about 5 foods that should be put on the \"black list\" for snacking just after a workout.\n\n1. Raw vegetables.";
+
+"details_content_2" = "Suddenly? Raw vegetables have always been and are considered a healthy and wholesome food, but it's not something your body really needs after a serious workout. Raw vegetables are low in calories and your body needs a boost. Vegetables with protein snacks and yogurt are a much better option.\n\n2. Pizza";
+
+"details_content_3" = "Tasty, quick, and convenient. However, it is better not to look into pizza after a workout, because even in one slice of pizza - a huge number of calories, which is unlikely to be useful. Indulging in pizza at the end of a series of cardio or strength training exercises will simply negate any effort to burn calories. Plus, meat and cheese are pretty slow to digest, you won't feel full right away and are likely to eat more than you should.\n\n3. Potato chips.";
+
+"details_content_4" = "This seems like a completely harmless snack, but the fact is that potato chips contain too much salt. High levels of salt (sodium chloride) slow your body's absorption of potassium, which leads to feelings of fatigue. If you want a post-workout energy boost, snacking on a packet of potato chips is best postponed for a couple of hours.\n\n4. Soft Drinks";
+
+"details_content_5" = "A cool and pleasant-tasting drink is something that sometimes begs to be grabbed after a workout. But a sweet, especially fizzy, drink is by no means the most appropriate product. Most of these drinks contain too many sweeteners, flavorings, colorings and other chemicals. Water is ideal both during and after your workout. Another healthy alternative is a glass of nonfat milk or a drink with a balanced protein and carbohydrate content.\n\n5. Fried foods.";
+
+"details_content_6" = "Who hasn't dreamed of a big hamburger, a portion of French fries or fried chicken after strenuous strength training? Yes, these fried foods allow you to quickly replenish energy reserves, but at the same time add a lot of unnecessary calories. Eat a hot dog after a workout: consider that the workout did not happen. So, when you leave the gym with a gym, stay away from fried chicken and pita with a heavy layer of mayonnaise and chicken in batter.";
+
+// 4
+"common_mistakes_content_1" = "Working out all the time but never reaching your goal? Or just starting to exercise regularly? Let us tell you about the mistakes that can prevent you from exercising or even harm your health. Sometimes they are committed not only by beginners, but also by experienced athletes. Read in our appendix whether you should warm up before exercising, how much to drink during training, what to eat and why to study exercises.
+\nYou have not formulated a goal and you train by inertia";
+
+"common_mistakes_content_2" = "Many people use programs from the Internet or do exercise, which were advised by friends. And often there is a question: why does not the weight decrease or do not gain weight, because I do everything correctly? were advised by friends. And often there is a question: why does not the weight decrease or do not gain weight, because I do everything correctly?\nDo not forget that the workout is developed, based on the specific goal of each individual. Everything matters: the original weight and height, experience, health and old injuries. Exercises from the Internet are designed for \"average hospital temperature\": for someone they are great, for someone not. And the complex may not give the desired results.\nConclusion: be sure to articulate your desire. To gain muscle mass, lose weight, increase stamina and muscle elasticity? When you choose an exercise plan, make sure it will help achieve your specific goal. Read reviews or ask a trainer you know for advice. He will evaluate the program, tell you where to add effort and where to reduce the turnover.\n\nExercise if you don't feel well.";
+
+"common_mistakes_content_3" = "From the very beginning, consult a doctor if you have chronic diseases or contraindications to some loads. Be sure to warn the trainer. Do not worry, that he will refuse to work with you: most likely, he will just warn you about the exercises you should skip or replace with others.\nIf your health is good, it is important to listen to your condition. If you feel unwell, postpone the class. If you feel sick during the class, stop and recover. Exercising \"to the point of exhaustion\" will do you harm, not good.\n\nNeglecting your warm-up";
+
+"common_mistakes_content_4" = "The warm-up is as important as the workout itself. Just 10 minutes is enough to warm up your muscles, prepare your nervous system for the workout, make it more productive and avoid injuries. If the warm-up is not part of your workout package, search the Internet for individual videos: many fitness channels put a variety of options online. For a successful exercise it is enough to do joint exercises and easily work the main muscle groups.\n\nLoad yourself unevenly";
+
+"common_mistakes_content_5" = "When you choose a training program, make sure that the exercises give a load to the whole body. For example, if you pump all the time abs, but do not strengthen the back, muscle imbalance will reflect badly on the entire figure. Try to do exercises that strengthen all the muscles first, and then focus on the problem areas during the workout. Or you can divide your workouts into days of the week, as they often do in the gym.\n\nYou don't change your exercise regimen.";
+
+"common_mistakes_content_6" = "Consistency is good when it comes to going to the gym. But it does not work with the training program. It's nice when all the exercises are familiar and the class is easy and fun, but the body needs a load to develop, and sometimes even a shake-up. If you realize that everything comes easy, try adding a new exercise and increasing the number of repetitions. Every one or two months review your workout plan and change it. Be sure to consult a trainer.\n\nNot replenishing your water balance";
+
+"common_mistakes_content_7" = "We sweat a lot and lose fluid during exercise. You must replenish fluids, or you may become dehydrated. And the whole workout will not only be reduced to nothing, but can also be detrimental to your health. To avoid this, drink a few sips of water every 15 to 20 minutes, and be sure to drink it after your workout.";
+
+// 5
+"tips_content_1" = "How to keep yourself clean when exercising at home.";
+
+"tips_content_2" = "Personal hygiene is important not only when exercising at the gym, but also when exercising at home. We will tell you about the basic rules that will help keep you healthy and alert and make working out enjoyable.\n\nKeep clean and ventilate\n\nThere are general recommendations of the World Health Organization on home hygiene - you should air all rooms constantly, especially those rooms where you spend the most time, as well as once a day wet cleaning. Try to keep the temperature around 22 degrees, which is comfortable and healthy.\nCarefully treat the items you are constantly in contact with - gadgets, door and window handles, remotes, tables, chairs, sinks, etc. You could use a simple soapy water solution or special disinfectants or chlorine. Protect your hands from injury and wear gloves when working.";
+
+"tips_content_3" = "Disinfect the workout area and workout equipment\n\nIt is important to keep the training room clean - be sure to wash the floor before and after training. Particular attention should be paid to sports equipment. It must be disinfected every time after training. Clean all items with which you interact - mat, jump rope, dumbbells, fitness bands, balls, etc. - with detergents or alcohol wipes.";
+
+"tips_content_4" = "Hygiene before, during and after your workout\n\nIf you work out in the evening, take a shower before class to clean your pores and avoid irritation. Wounds and cuts should be treated and taped to prevent sweat and dust particles from getting into them.\nTie your hair into a tight ponytail or pin it so that you don't have to fix it while you are exercising. Use a towel during your workout to avoid touching your face with your hands.\n\nAfter your workout, be sure to shower, ventilate the room, and tidy up your work area.";
+
+"tips_content_5" = "Laundry .\nIt is important not to leave workout clothes wet in the laundry basket or in the washing machine. It is best to wash them after each workout. If not possible, dry the damp uniforms. And then wash it separately from other things.\nShoes should also be sure to dry after sporting activities: you can send them to the balcony and additional airing or use special balls, which are sold in sports stores.";
+
+// NOTES VC
+"open" = "open";
+"delete" = "delete";
+"new_note" = "new note";
+"edit" = "edit";
+"save" = "save";
+
+"New note team:" = "New note team:";
+"New note text:" = "New note text:";
+
+"You really want to do this?" = "You really want to do this?";
+"Yes" = "Yes";
+"No" = "No";
+
+// SHOP VC
+"No ADS" = "No ADS";
+"Bought" = "Bought";
+"Buy" = "Buy";
+"Restore" = "Restore";
+
+// SETTINGS VC
+"Mute on/off" = "Mute on/off";
+"Changing Language" = "Changing Language";
+"Screen light" = "Screen light";
+"Back to menu" = "Back to menu";
+
+// BMI CALCULATOR
+"height" = "Height";
+"weight" = "Weight";
+"cm" = "cm";
+"kg" = "kg";
+"Result" = "Result";
+"BMI table" = "BMI table";
+
